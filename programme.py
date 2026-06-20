@@ -1,6 +1,3 @@
-"""
-Programme réalisé par Aulair, Florentin, 1g7
-"""
 import pygame
 
 #initialisation graphique
